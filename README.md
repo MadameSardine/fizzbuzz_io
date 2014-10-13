@@ -5,3 +5,9 @@
 * Fizzbuzz returns "Buzz" if the number is divisible by 5
 * Fizzbuzz returns "FizzBuzz" if the number is divisible by 15
 * Otherwise, Fizbuzz returns the number
+
+### How it works
+
+```
+io fizzbuzz_io.io
+```
