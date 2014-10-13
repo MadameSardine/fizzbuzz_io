@@ -9,5 +9,5 @@
 ### How it works
 
 ```
-io fizzbuzz_io.io
+io fizzbuzz.io
 ```
